@@ -1643,3 +1643,10 @@
 1402921750 /usr/include/wx-3.0-unofficial/wx/gtk/mdi.h
 	"wx/frame.h"
 
+1442296297 source:/home/lhd/workspace/mypro/worktest/c_learn/c++/wxWidgets-Program-development/hello_world/main.cpp
+	"wx_pch.h"
+
+1442296297 /home/lhd/workspace/mypro/worktest/c_learn/c++/wxWidgets-Program-development/hello_world/wx_pch.h
+	<wx/wxprec.h>
+	<wx/wx.h>
+
